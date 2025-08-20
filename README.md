@@ -44,12 +44,15 @@ This project explores **ResNet-50** and **ResNet-101** backbones with **Feature 
 ---
 
 ## 🖥️ Screenshots  
-### Instance Segmentation Examples
+### Model Architecture
 ![Model Architecture](./images/modelarvchitecture.png)
+
+### Instance Segmentation Examples
 ![Segmentation Masks1](./images/merge1.jpg)
 ![Segmentation Masks2](./images/merge2.jpg)
-![Graph1](./images/loss_accuracy.jpeg)
-![Graph2](./images/loss_accuracy_2.jpeg)
+
+### ResNet101+FPN: Training Loss and Accuracy  
+![ResNet101+FPN Training Graph](./images/loss_accuracy_2.jpeg)
 
 
 
