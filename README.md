@@ -44,7 +44,8 @@ This project explores **ResNet-50** and **ResNet-101** backbones with **Feature 
 ---
 
 ## 🖥️ Screenshots  
-### Instance Segmentation Examples  
+### Instance Segmentation Examples
+![Model Architecture](./images/modelarvchitecture.png)
 ![Object Detection Eg1](./images/od1.jpeg)
 ![Object Detection Eg2](./images/od2.jpeg)
 ![Object Detection Eg3](./images/od3.jpeg)
@@ -56,7 +57,6 @@ This project explores **ResNet-50** and **ResNet-101** backbones with **Feature 
 ![Object Detection Eg9](./images/od9.jpeg)
 ![Segmentation Masks1](./images/merge1.jpg)
 ![Segmentation Masks2](./images/merge2.jpg)
-![Model Architecture](./images/modelarvchitecture.png)
 ![Graph1](./images/loss_accuracy.jpeg)
 ![Graph2](./images/loss_accuracy_2.jpeg)
 
