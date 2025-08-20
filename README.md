@@ -73,11 +73,12 @@ cd Object_detection_instance_segmentation_Mask_RCNN
 Add all .ipynb files to Google Colab
 Change runtime to use an available GPU
 Run Colab notebook
+```
 
 ## 👤 Author
 **Aishwarya Joshi**  
 📍 Oregon State University (MS CS) | Software Engineer (AI/ML, Cloud)  
 [LinkedIn](https://www.linkedin.com/in/aishwarya-j-822999188) | [GitHub](https://github.com/Aishwarya-Joshi11)
 
-**Keerthana Gopalakrishnan**
+**Keerthana Gopalakrishnan**  
 **Sanika Prashant Deshmukh**
